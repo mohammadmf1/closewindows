@@ -1,0 +1,2 @@
+# closewindows
+ exit
